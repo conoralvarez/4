@@ -1,0 +1,8 @@
+.pagess {clear: both;padding-top: 30px;padding-bottom:60px;overflow: hidden;margin-left: 0px;text-align: center;font-size:12px}
+.pagess ul li { display:inline-block;border: 1px solid #ccc;padding: 5px 15px;margin: 0 3px;line-height: 20px;background: #fff;color:#999}
+.pagess ul li:hover{ background:#D92126; color:#fff;border: 1px solid #FF6637}
+.pagess ul li:hover a{color:#fff;}
+.pagess ul li.thisclass {display: inline-block;border: 1px solid #FF6637;padding: 5px 15px;margin: 0 3px;background: #FF6637;color: #fff;}
+.pagess ul li.thisclass a {color: #fff;}
+.pagess ul li a{ display:block;color:#999}
+.pagess ul li a:hover {color: #fff;}

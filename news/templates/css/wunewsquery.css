@@ -1,0 +1,19 @@
+.wunewsquery{
+	font-family: Microsoft YaHei; overflow: hidden;position: relative;
+}
+.wunewsquery li{position: relative; margin-bottom: 20px;
+    padding-bottom: 20px; height: 150px;
+    border-bottom: 1px dotted #cccccc;}
+.wunewsquery .img{position: absolute;}
+.wunewsquery .con{
+	margin-left: 260px;
+}
+.wunewsquery a{text-decoration: none;}
+.wunewsquery .title{padding-top: 5px; padding-bottom: 5px;}
+.wunewsquery .title a{ 
+    font-size: 18px; color: #000;
+}
+.wunewsquery .title a:hover{color:#D92126;}
+.wunewsquery .title .cat{margin-right: 10px;}
+.wunewsquery .time{color: #929292;font-size: 14px;line-height: 32px;}
+.wunewsquery .memo{color: #666;font-size: 14px;line-height: 32px;}

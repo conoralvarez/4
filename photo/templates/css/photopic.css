@@ -1,0 +1,41 @@
+@charset "utf-8";
+.photopic{ position:relative; clear: both; font-family: arial,helvetica,'sans-serif','微软雅黑';}
+.photopic li{
+	margin:0px 5px 5px 0px;
+	text-align:center;
+	float:left;
+	border:1px #ccc solid;
+}
+
+div.picFit{
+overflow: hidden;
+}
+
+.photopic ul{overflow: hidden;}
+.photopic dl,
+.photopic dd{margin: 0;}
+.photopic dt{
+	margin-top: 5px;
+	white-space:nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	line-height: 16px;
+}
+.photopic dt a{text-decoration: none;}
+
+.photopic .title{font-size: 18px; color: #ff0000; position: absolute; font-weight: bold;}
+
+.photopic .more{
+	position: absolute;
+	height: 22px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 13px;
+    padding: 0 6px;
+    background: #f60001;
+    color: #fff;
+    line-height: 21px;
+    cursor: pointer;
+    overflow: hidden;
+    text-decoration: none;
+ }
